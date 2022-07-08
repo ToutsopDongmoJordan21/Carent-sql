@@ -2,6 +2,8 @@ package com.example.caref.files.dto;
 
 
 import com.example.caref.files.entities.enumeration.DocType;
+import com.example.caref.files.entities.enumeration.EntityFileType;
+import com.example.caref.files.entities.enumeration.FileType;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

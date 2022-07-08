@@ -1,5 +1,6 @@
 package com.example.caref.models.dto;
 
+import com.example.caref.files.dto.FileDto;
 import lombok.Data;
 
 @Data

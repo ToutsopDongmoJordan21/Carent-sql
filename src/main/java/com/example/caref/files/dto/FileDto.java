@@ -1,6 +1,7 @@
 package com.example.caref.files.dto;
 
 import com.example.caref.files.entities.enumeration.DocType;
+import com.example.caref.files.entities.enumeration.FileType;
 import lombok.Data;
 
 @Data

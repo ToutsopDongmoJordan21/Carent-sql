@@ -1,9 +1,18 @@
 package com.example.caref.files.services.impl;
 
 import com.example.caref.files.dto.CreateFileDto;
+import com.example.caref.files.dto.FileDto;
 import com.example.caref.files.entities.CarefFile;
+import com.example.caref.files.entities.enumeration.DocType;
 import com.example.caref.files.repositories.FileRepository;
 import com.example.caref.files.services.FileService;
+import com.example.caref.files.webs.FilesResource;
+import com.example.caref.models.Car;
+import com.example.caref.models.Garage;
+import com.example.caref.models.User;
+import com.example.caref.repository.CarRepository;
+import com.example.caref.repository.GarageRepository;
+import com.example.caref.repository.UserRepository;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

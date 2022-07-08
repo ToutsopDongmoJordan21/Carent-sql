@@ -1,5 +1,7 @@
 package com.example.caref.models.dto;
 
+import com.example.caref.files.dto.FileDto;
+
 public class UserDto {
 
     public UserDto() {}

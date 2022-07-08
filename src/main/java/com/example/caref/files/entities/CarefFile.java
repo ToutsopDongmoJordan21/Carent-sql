@@ -1,5 +1,7 @@
 package com.example.caref.files.entities;
 
+import com.example.caref.files.entities.enumeration.DocType;
+import com.example.caref.files.entities.enumeration.FileType;
 import com.example.caref.models.Car;
 import com.example.caref.models.Garage;
 import com.example.caref.models.User;
