@@ -8,6 +8,7 @@ import com.example.caref.models.dto.ReportResponseDto;
 import com.example.caref.repository.CarRepository;
 import com.example.caref.repository.ReportRepository;
 import com.example.caref.repository.UserRepository;
+import com.example.caref.security.util.SecurityUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

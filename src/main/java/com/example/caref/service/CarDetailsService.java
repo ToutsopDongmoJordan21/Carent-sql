@@ -13,6 +13,7 @@ import com.example.caref.repository.AccessoireRepository;
 import com.example.caref.repository.CarAccessoireRepository;
 import com.example.caref.repository.CarRepository;
 import com.example.caref.repository.UserRepository;
+import com.example.caref.security.util.SecurityUtils;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
